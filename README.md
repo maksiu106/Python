@@ -1,0 +1,1 @@
+SProgramy napisane w ramach przedmiotu Język Python podczas studiowania Informatyki Stosowanej na Uniwersytecie Jagiellońskim w roku akademickim 2023/24 w grupie ćwiczeniowej prowadzonej przez prof. Andrzeja Kapanowskiego.
